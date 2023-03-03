@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Learning &#8211; Gerador de Site Estático</title>
+	<atom:link href="https://gen.drbmarketing.com.br/static/category/learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gen.drbmarketing.com.br/static/</link>
+	<description></description>
+	<lastBuildDate>Thu, 02 Mar 2023 14:51:33 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Building a Career in Data Science and Analytics</title>
+		<link>https://gen.drbmarketing.com.br/static/building-a-career-in-data-science-and-analytics/</link>
+					<comments>https://gen.drbmarketing.com.br/static/building-a-career-in-data-science-and-analytics/#comments</comments>
+		
+		<dc:creator><![CDATA[santoro]]></dc:creator>
+		<pubDate>Wed, 23 Sep 2020 13:22:47 +0000</pubDate>
+				<category><![CDATA[Learning]]></category>
+		<category><![CDATA[balance]]></category>
+		<category><![CDATA[courses]]></category>
+		<category><![CDATA[motivation]]></category>
+		<guid isPermaLink="false">http://unicoach.wgl-demo.net/?p=269</guid>
+
+					<description><![CDATA[In order to write the perfect blog post, you need to break your content up into paragraphs. While most blog posts use paragraphs, few use them well. Take the time to put links in your blog post...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="269" class="elementor elementor-269">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f718b3b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f718b3b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e177aaa" data-id="e177aaa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ba1a615 elementor-widget elementor-widget-text-editor" data-id="ba1a615" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. As students across the globe continue to see their learning plans significantly.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fc0cc4e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fc0cc4e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-30b03e3" data-id="30b03e3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c58874 elementor-widget elementor-widget-text-editor" data-id="6c58874" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<blockquote><p>As students across the globe continue to see their significantly learning plans disrupted, our university partners are modifying admissions requirements to make it easier to apply.</p></blockquote>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fb0795f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fb0795f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6863729" data-id="6863729" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c7b8b0a elementor-widget elementor-widget-heading" data-id="c7b8b0a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Make it Great!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0cf6a14 elementor-widget elementor-widget-text-editor" data-id="0cf6a14" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. As students across the globe continue to see their learning plans significantly.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3bbe2ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3bbe2ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05d9d19" data-id="05d9d19" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b227a0 elementor-widget elementor-widget-image" data-id="3b227a0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="435" height="415" src="https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/SMT53.jpeg" class="attachment-large size-large wp-image-10760" alt="" srcset="https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/SMT53.jpeg 435w, https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/SMT53-300x286.jpeg 300w" sizes="(max-width: 435px) 100vw, 435px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-00ca527" data-id="00ca527" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c910e1e elementor-widget elementor-widget-image" data-id="c910e1e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="435" height="415" src="https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/COL43.jpeg" class="attachment-large size-large wp-image-10759" alt="" srcset="https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/COL43.jpeg 435w, https://gen.drbmarketing.com.br/static/wp-content/uploads/2021/06/COL43-300x286.jpeg 300w" sizes="(max-width: 435px) 100vw, 435px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5337311 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5337311" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3c7837b" data-id="3c7837b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-011af0d elementor-widget elementor-widget-heading" data-id="011af0d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Conclusion </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-89ef0f6 elementor-widget elementor-widget-text-editor" data-id="89ef0f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. As students across the globe continue to see their learning plans significantly.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://gen.drbmarketing.com.br/static/building-a-career-in-data-science-and-analytics/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
